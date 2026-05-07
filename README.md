@@ -2,7 +2,7 @@
   
   👋 Welcome to my GitHub! 
   
-  I'm a Software Engineer at Banxico (Mexico's Central Bank) building mission-critical financial systems. Currently preparing for Master's at University of Washington (MSIS, Summer 2026).
+  I'm a Software Engineer at Banxico (Mexico's Central Bank) building mission-critical financial systems.
   
   ## 🔧 Core Skills
   - **Backend**: Java, Spring Boot, Python, RESTful APIs
@@ -18,9 +18,7 @@
   
   ## 📍 Location & Timeline
   - Currently: Mexico City, MX
-  - Relocating: Seattle, WA (June 2026)
   
   ## 📬 Let's Connect
   - **LinkedIn**: [santiago-flores-larrondo](https://www.linkedin.com/in/santiago-flores-larrondo-b83a59280)
   - **Email**: s.flores.l@outlook.com
-  - **Portfolio**: [Coming Soon - santi-portfolio]
