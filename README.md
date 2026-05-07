@@ -8,7 +8,7 @@
   - **Backend**: Java, Spring Boot, Python, RESTful APIs
   - **Frontend**: React, TypeScript, Tailwind CSS
   - **Databases**: PostgreSQL, MongoDB, Cassandra, Neo4j
-  - **DevOps**: Docker, Vercel, Git, Azure (in progress)
+  - **DevOps**: Docker, Vercel, Git, Azure
   - **Data**: ETL pipelines, pandas, NumPy, TensorFlow
   
   ## 📦 Featured Projects
