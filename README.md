@@ -14,9 +14,9 @@
   - **Data**: ETL pipelines, pandas, NumPy, TensorFlow
   
 ## 📦 Featured Projects
-  - **[Polyrhythmia](https://github.com/Thiago-whatever/MachineLearning)** - AI-powered drum sequence generation (LSTM, TensorFlow)
+  - **[Polyrhythmia](https://github.com/Thiago-whatever/Polyrhythmia)** - AI-powered drum sequence generation (LSTM, TensorFlow)
   - **[NoSQL ETL Pipeline](https://github.com/Thiago-whatever/FinalProject_NoSQL)** - TMDB API → MongoDB/Cassandra/Neo4j (40% query time reduction)
-  - **[Guza & Larrondo Solutions](https://github.com/guzalarrondo)** - Consulting studio building full-stack web apps for SMBs
+  - **[Guza & Larrondo Solutions](https://guzalarrondo.com)** - Consulting studio building full-stack web apps for SMBs
   
 ## 📍 Location & Timeline
   - Currently: Seattle, WA
